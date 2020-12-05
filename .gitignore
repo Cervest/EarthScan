@@ -1,0 +1,14 @@
+EarthScan.egg-info/
+build/
+dist/
+docs/_build
+docs/_static
+docs/_templates
+
+# test code
+test_nbk.ipynb
+.ipynb_checkpoints/
+.DS_Store
+EarthScan-dev-nbk.ipynb
+EarthScan/__pycache__/
+Untitled.ipynb
